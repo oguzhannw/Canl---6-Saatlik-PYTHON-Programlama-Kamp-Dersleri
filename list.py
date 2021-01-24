@@ -27,5 +27,7 @@ print(sayi2)
 
 isim = "Engin"  
 print(isim)
+print(len(isim))   #isimdeki harf sayısı
+print(type(isim))  #değişken türünü verir
 
 bosListe=[]
