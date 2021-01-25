@@ -30,4 +30,4 @@ print(isim)
 print(len(isim))   #isimdeki harf sayısı
 print(type(isim))  #değişken türünü verir
 
-bosListe=[]
+bosListe=[]    #kodlamada İF ne kadar az ise kod o kadar kaliteli olur. İF çok olursa kendi kendine döngü yapar kod.
